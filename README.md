@@ -30,7 +30,7 @@
 ### Others:
 
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Rabbitmq-20232A?style=for-the-badge&logo=rabbitmq&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/Rabbitmq-20232A?style=for-the-badge&logo=rabbitmq&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=61fbb8" />
 </div>
