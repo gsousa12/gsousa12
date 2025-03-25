@@ -6,7 +6,7 @@
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61fbb8" />
-<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61fbb8" />
 <img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=61fbb8" />
 </div>
 
