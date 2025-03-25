@@ -1,12 +1,36 @@
-### Main skills:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## Skills:
 
-### Tools:
-![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp; 
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp; 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<center>
 
-### Frameworks:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Backend:
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=61fbb8" />
+</div>
+
+### Frontend:
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=61fbb8" />
+</div>
+
+### Database:
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61fbb8" />
+<img src="https://img.shields.io/badge/Sql Server-20232A?style=for-the-badge&logo=microsoft-sql-server&logoColor=61fbb8" />
+</div>
+
+### Others:
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Rabbitmq-20232A?style=for-the-badge&logo=rabbitmq&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=61DAFB" />
+</div>
