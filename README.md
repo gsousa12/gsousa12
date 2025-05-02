@@ -23,7 +23,6 @@
 <div text-align="justify">
 <img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61fbb8" />
 <img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61fbb8" />
-<img src="https://img.shields.io/badge/Sql Server-20232A?style=for-the-badge&logo=microsoft-sql-server&logoColor=61fbb8" />
 </div>
 
 ### Others:
