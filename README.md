@@ -13,7 +13,6 @@
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61fbb8" />
-<img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61fbb8" />
 <img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=61fbb8" />
 <img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=61fbb8" />
 </div>
