@@ -5,8 +5,8 @@
 ### Backend:
 
 <div text-align="justify">
+<img src="https://img.shields.io/badge/.net-20232A?style=for-the-badge&logo=dotnet&logoColor=61fbb8" />
 <img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61fbb8" />
-<img src="https://img.shields.io/badge/golang-20232A?style=for-the-badge&logo=go&logoColor=61fbb8" />
 </div>
 
 ### Frontend:
